@@ -1,11 +1,17 @@
 <div align="center">
+<div align="center">
 
-# 👋 Hi, I'm Shadman Shakib
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816%2C45:0B1F3A%2C100:003566&text=MEHEDI%20HASAN&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%2B%20MOBILE%20DEVELOPER&descAlignY=60&descSize=19"
+width="100%"
+alt="Shadman Shakib Banner"
+/>
 
-### 💻 Computer Science & Technology Student
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Learning+Programming;Exploring+Web+Development;Learning+Python+%26+Java;Building+My+Skills;On+the+Road+to+Software+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+Digital+Experiences+%E2%80%A2+Engineering+Software;Full+Stack+Developer+%7C+Mobile+Developer;Turning+Ideas+Into+Working+Software;Flutter+%E2%80%A2+React+%2F+Next.js+%E2%80%A2+C%2B%2B+%E2%80%A2+Python;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+To+The+World+%F0%9F%8C%8E&font=Fira%20Code&center=true&width=800&height=45&color=58A6FF&vCenter=true&size=22&pause=1800" alt="Typing SVG" />
 
+<br>
 </div>
 
 ---
