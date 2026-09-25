@@ -51,12 +51,29 @@ Continuous Learning        █████████████████�
 
 ---
 
-📈 GitHub Activity
+## 📊 GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakib-xs&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&cache_seconds=1800&v=1.1" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=shakib-xs&hide_border=true&theme=transparent&cache_seconds=1800&v=1.1" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamehedi&theme=github-dark&hide_border=true" width="96%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamehedi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamehedi&layout=compact&hide_border=true&theme=github_dark" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamehedi&theme=github-dark&hide_border=true" width="70%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamehedi&theme=onedark&no-frame=true&row=1&column=6" width="90%"/>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816%2C100:003566&height=2&width=100%25"/>
+
 ---
 
 ## 🧩 What I'm Working Toward
