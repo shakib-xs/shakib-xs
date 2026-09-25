@@ -52,7 +52,11 @@ Continuous Learning        █████████████████�
 ---
 
 📈 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shakib-xs&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" /> <br> <img src="https://streak-stats.demolab.com?user=shakib-xs&hide_border=true&theme=transparent" /> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakib-xs&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&cache_seconds=1800" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=shakib-xs&hide_border=true&theme=transparent&cache_seconds=1800" />
+</div>
 ---
 
 ## 🧩 What I'm Working Toward
