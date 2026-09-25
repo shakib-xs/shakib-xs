@@ -119,14 +119,6 @@ professional software engineer.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
-
----
-
 <div align="center">
-
-### 💡 Keep Learning. Keep Building. 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-
-</div>
+💡 Keep Learning. Keep Building. 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06345C,100:0B0F19" width="100%" /> </div> ```
