@@ -70,6 +70,7 @@ professional software engineer.
 📫 Connect With Me
 <div align="center"> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/shakib-xs"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/YOUR_X_USERNAME"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="https://YOUR_PORTFOLIO_DOMAIN"> <img src="https://img.shields.io/badge/Portfolio-06345C?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </div>
 
+
 <div align="center">
 💡 Keep Learning. Keep Building. 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06345C,100:0B0F19" width="100%" /> </div>
