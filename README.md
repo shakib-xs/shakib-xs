@@ -25,7 +25,7 @@ HTML               ████████████████████�
 CSS                ██████████████░░░░░░░░░░░░░░░░  Learning
 JavaScript         ███████████░░░░░░░░░░░░░░░░░░░  Learning
 Web Development    █████████████████░░░░░░░░░░░░░  Building
- Git & GitHub       ████████████████████░░░░░░░░░░  Practicing
+ Git & GitHub      ████████████████████░░░░░░░░░░  Practicing
 Software Design    █████████████░░░░░░░░░░░░░░░░░  Exploring
 AI                 ████████████████░░░░░░░░░░░░░░  Exploring
 ```
