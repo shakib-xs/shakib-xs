@@ -76,4 +76,8 @@ professional software engineer.
 
 <div align="center">
 💡 Keep Learning. Keep Building. 🚀
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06345C,100:0B0F19" width="100%" /> </div>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=120&section=footer" alt="Footer Animation" />
+</p>
