@@ -122,5 +122,5 @@ professional software engineer.
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:030712,50:0B192C,100:1E3E62&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1E3E62,50:0B192C,100:030712&section=footer" width="100%" />
 </div>
