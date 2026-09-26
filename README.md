@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Vertically & Horizontally Centered Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:030712,50:0B192C,100:1E3E62&text=SHADMAN%20SHAKIB&fontSize=50&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER%20%E2%80%A2%20TECH%20BUILDER&descAlignY=62&descSize=18&descColor=38BDF8&animation=fadeIn" width="100%" />
+  <!-- align Centered Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:030712,50:0B192C,100:1E3E62&text=SHADMAN%20SHAKIB&fontSize=50&fontColor=FFFFFF&fontAlignY=32&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER%20%E2%80%A2%20TECH%20BUILDER&descAlignY=50&descSize=18&descColor=38BDF8&animation=fadeIn" width="100%" />
   
   <br>
 
@@ -27,8 +27,6 @@
   </a>
 </div>
 
-<div>
- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/YOUR_X_USERNAME"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="https://YOUR_PORTFOLIO_DOMAIN"> <img src="https://img.shields.io/badge/Portfolio-06345C?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </div>
 
 
 ## 👨‍💻 About Me
