@@ -121,6 +121,6 @@ professional software engineer.
 💡 Keep Learning. Keep Building. 🚀
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Animation" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:030712,50:0B192C,100:1E3E62" width="100%" />
+</div>
