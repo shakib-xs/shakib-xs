@@ -7,7 +7,7 @@
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Learning+Programming;Exploring+Web+Development;Learning+Python+%26+Java;Practicing+Git+%26+GitHub;Building+My+Skills;Exploring+Software+Engineering" />
 
-  <br><br>
+  <br>
 
   <!-- Contact Us Badges -->
   <a href="mailto:YOUR_EMAIL@gmail.com">
