@@ -1,15 +1,15 @@
 <div align="center">
-  <!-- Dark Black and Blue Mixed Gradient Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:030712,50:0B192C,100:1E3E62&text=SHADMAN%20SHAKIB&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER%20%E2%80%A2%20TECH%20BUILDER&descAlignY=58&descSize=19&descColor=38BDF8&animation=fadeIn" width="100%" />
+  <!-- Vertically & Horizontally Centered Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:030712,50:0B192C,100:1E3E62&text=SHADMAN%20SHAKIB&fontSize=50&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER%20%E2%80%A2%20TECH%20BUILDER&descAlignY=62&descSize=18&descColor=38BDF8&animation=fadeIn" width="100%" />
   
   <br>
 
-  <!-- Typing SVG with Custom Text Color -->
+  <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Learning+Programming;Exploring+Web+Development;Learning+Python+%26+Java;Practicing+Git+%26+GitHub;Building+My+Skills;Exploring+Software+Engineering" />
 
   <br><br>
 
-  <!-- Contact Us Badges with Matching Modern Theme -->
+  <!-- Contact Us Badges -->
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
